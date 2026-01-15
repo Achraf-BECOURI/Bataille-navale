@@ -1,0 +1,54 @@
+# Exécutables
+*.exe
+*.out
+*.app
+bataille_navale
+bataille_navale.exe
+main
+main.exe
+
+# Fichiers objets
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# Fichiers de débogage
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Fichiers temporaires
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Scores (décommentez pour ne pas les partager)
+# scores.txt
+
+# Dossiers IDE
+.vscode/
+.idea/
+*.code-workspace
+*.cbp
+*.depend
+*.layout
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+build/
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ncb
+*.vcxproj.user

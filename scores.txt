@@ -1,0 +1,42 @@
+[EASY]
+ashraf 507
+ACHRAF 497
+hammid 487
+achraf 486
+kamal 484
+achraf 410
+ali 376
+achraf 270
+
+[MEDIUM]
+anas 509
+ACHRAF 501
+manal 489
+walid 487
+amin 480
+achraf 285
+ennougaoui 111
+
+[HARD]
+amin 512
+achraf 503
+imad 499
+abdelhakim 494
+yassine 492
+achraf 485
+ghita 313
+omar 290
+ana 290
+achraf 285
+
+[PVP]
+imad1 530
+marwan1 520
+morad1 520
+raja 520
+hamza1 520
+hamid 364
+achraf 336
+achraf 313
+imad 118
+anas 114
